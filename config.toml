@@ -1,0 +1,7 @@
+baseURL = "http://raspberrypi.local/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "kiera"
+
+pygmentsCodeFences = true
+pygmentsStyle = "native"
